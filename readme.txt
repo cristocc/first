@@ -12,3 +12,6 @@ https://blog.csdn.net/briblue/article/details/54973413
 
 各大公司Java后端开发面试题总结
 https://blog.csdn.net/sinat_35512245/article/details/59056120
+
+解决PKIX：unable to find valid certification path to requested target 的问题
+https://www.cnblogs.com/xiaoping1993/p/9717649.html
