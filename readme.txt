@@ -15,3 +15,6 @@ https://blog.csdn.net/sinat_35512245/article/details/59056120
 
 解决PKIX：unable to find valid certification path to requested target 的问题
 https://www.cnblogs.com/xiaoping1993/p/9717649.html
+
+
+https://stackoverflow.com/questions/6481627/java-security-illegal-key-size-or-default-parameters
